@@ -1,0 +1,10 @@
+﻿id_clase,clase_original,clase
+0,intrusion,int
+1,reparacion,rep
+2,marketing,mar
+3,visitada,vis
+4,sin_realizar,noc
+5,seguridad,seg
+6,ok_equipo,oke
+7,sin_tarea,noc
+8,error,err
