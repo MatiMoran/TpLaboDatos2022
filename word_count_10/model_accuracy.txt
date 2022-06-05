@@ -1,0 +1,6 @@
+model_name
+SVC    0.760851
+Name: accuracy, dtype: float64
+model_name
+SVC    0.078312
+Name: accuracy, dtype: float64
