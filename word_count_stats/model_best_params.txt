@@ -1,0 +1,28 @@
+5
+{'C': 1.0, 'class_weight': None, 'dual': True, 'fit_intercept': True, 'intercept_scaling': 1, 'loss': 'squared_hinge', 'max_iter': 1000, 'multi_class': 'ovr', 'penalty': 'l2', 'random_state': None, 'tol': 0.0001, 'verbose': 0}
+El mejor score es:0.7185714285714286
+Los mejores parámetros son:{'loss': 'hinge', 'max_iter': 10, 'penalty': 'l2'}
+7
+{'C': 1.0, 'class_weight': None, 'dual': True, 'fit_intercept': True, 'intercept_scaling': 1, 'loss': 'squared_hinge', 'max_iter': 1000, 'multi_class': 'ovr', 'penalty': 'l2', 'random_state': None, 'tol': 0.0001, 'verbose': 0}
+El mejor score es:0.7607936507936509
+Los mejores parámetros son:{'loss': 'hinge', 'max_iter': 50, 'penalty': 'l2'}
+10
+{'C': 1.0, 'class_weight': None, 'dual': True, 'fit_intercept': True, 'intercept_scaling': 1, 'loss': 'squared_hinge', 'max_iter': 1000, 'multi_class': 'ovr', 'penalty': 'l2', 'random_state': None, 'tol': 0.0001, 'verbose': 0}
+El mejor score es:0.7625482174167153
+Los mejores parámetros son:{'loss': 'hinge', 'max_iter': 30, 'penalty': 'l2'}
+13
+{'C': 1.0, 'class_weight': None, 'dual': True, 'fit_intercept': True, 'intercept_scaling': 1, 'loss': 'squared_hinge', 'max_iter': 1000, 'multi_class': 'ovr', 'penalty': 'l2', 'random_state': None, 'tol': 0.0001, 'verbose': 0}
+El mejor score es:0.7786413586413587
+Los mejores parámetros son:{'loss': 'hinge', 'max_iter': 20, 'penalty': 'l2'}
+15
+{'C': 1.0, 'class_weight': None, 'dual': True, 'fit_intercept': True, 'intercept_scaling': 1, 'loss': 'squared_hinge', 'max_iter': 1000, 'multi_class': 'ovr', 'penalty': 'l2', 'random_state': None, 'tol': 0.0001, 'verbose': 0}
+El mejor score es:0.7630668756530825
+Los mejores parámetros son:{'loss': 'squared_hinge', 'max_iter': 15, 'penalty': 'l2'}
+17
+{'C': 1.0, 'class_weight': None, 'dual': True, 'fit_intercept': True, 'intercept_scaling': 1, 'loss': 'squared_hinge', 'max_iter': 1000, 'multi_class': 'ovr', 'penalty': 'l2', 'random_state': None, 'tol': 0.0001, 'verbose': 0}
+El mejor score es:0.7749649122807017
+Los mejores parámetros son:{'loss': 'hinge', 'max_iter': 5, 'penalty': 'l2'}
+20
+{'C': 1.0, 'class_weight': None, 'dual': True, 'fit_intercept': True, 'intercept_scaling': 1, 'loss': 'squared_hinge', 'max_iter': 1000, 'multi_class': 'ovr', 'penalty': 'l2', 'random_state': None, 'tol': 0.0001, 'verbose': 0}
+El mejor score es:0.7852277819268112
+Los mejores parámetros son:{'loss': 'hinge', 'max_iter': 15, 'penalty': 'l2'}
